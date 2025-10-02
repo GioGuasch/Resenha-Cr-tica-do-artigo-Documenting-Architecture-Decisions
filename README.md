@@ -1,0 +1,1 @@
+# Resenha-Cr-tica-do-artigo-Documenting-Architecture-Decisions
